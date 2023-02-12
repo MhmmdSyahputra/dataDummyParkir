@@ -1,0 +1,26 @@
+{
+  "kategori": [
+    {
+      "id": "1234",
+      "tanggalmasuk": "2023-02-03 11:50:40 WIB",
+      "Durasi": "5J 25M 13D",
+      "gerbangmasuk":"GATE01",
+      "img_in": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+    },
+    {
+      "id": "4321",
+      "tanggalmasuk": "2023-02-04 09:20:10 WIB",
+      "Durasi": "3J 20M 15D",
+      "gerbangmasuk":"GATE01",
+      "img_in": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+    },
+    {
+      "id": "1423",
+      "tanggalmasuk": "2023-02-01 08:20:40 WIB",
+      "Durasi": "2J 20M 15D",
+      "gerbangmasuk":"GATE02",
+      "img_in": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60"
+    }
+  ]
+  
+}
