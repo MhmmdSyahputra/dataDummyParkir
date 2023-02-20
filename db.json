@@ -83,7 +83,7 @@
         "id_gateout": "GO01",
         "id_usergate": "GATEOUT",
         
-        "ip_camera_rtsp1": "http://192.168.2.199:admin@12345678/realmonitor.cgi",
+        "ip_camera_rtsp1": "rtsp://admin:admin123@192.168.2.201:554/cam/realmonitor?channel=1&subtype=1mp4",
         "ip_camera_rtsp2": "",
         "ip_camera_rtsp3": "",
         "ip_camera_rtsp4": "",
