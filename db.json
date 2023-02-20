@@ -60,6 +60,40 @@
       "valas":"Rp.",
       "biayaparkir":"123500"
     }
-  ]
+  ],
   
+  "config":{
+        
+        "ftp_host": "192.168.2.199",
+        "ftp_user": "admin",
+        "ftp_pass": "12345678",
+        
+        "api_url": "http://192.168.2.199/sistemparkir-emoney/api.php",
+        "api_secretcode": "1122334455",
+        
+        "detik_pembayaran": 10,
+        "detik_suksesbayar": 5,
+        "detik_gagalbayar": 5,
+        "detik_invalidtiket": 5,
+        
+        "com_portname": "COM1",
+        "com_baudrate": "38400",
+        "com_databit": "8",
+        
+        "id_gateout": "GO01",
+        "id_usergate": "GATEOUT",
+        
+        "ip_camera_rtsp1": "http://192.168.2.199:admin@12345678/realmonitor.cgi",
+        "ip_camera_rtsp2": "",
+        "ip_camera_rtsp3": "",
+        "ip_camera_rtsp4": "",
+        
+        "img_top": 200,
+        "img_left": 200,
+        "img_width": 800,
+        "title1_top": 200,
+        "title1_left": 600,
+        "title2_top": 400,
+        "title2_left": 810
+  }
 }
