@@ -35,6 +35,30 @@
       "namatarif":"GATE02",
       "valas":"Rp.",
       "biayaparkir":"9000"
+    },
+    {
+      "id": "qwertyuiop",
+      "tgljammasuk": "2023-02-01 08:20:40 WIB",
+      "durasi": "2J 20M 15D",
+      "durasidetail": "2J 20M 15D",
+      "idgatein":"GATE02",
+      "imgin": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60",
+      "idtarif": "132",
+      "namatarif":"GATE02",
+      "valas":"Rp.",
+      "biayaparkir":"23500"
+    },
+    {
+      "id": "poutrewq",
+      "tgljammasuk": "2023-02-01 08:20:40 WIB",
+      "durasi": "2J 20M 15D",
+      "durasidetail": "2J 20M 15D",
+      "idgatein":"GATE02",
+      "imgin": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60",
+      "idtarif": "132",
+      "namatarif":"GATE02",
+      "valas":"Rp.",
+      "biayaparkir":"123500"
     }
   ]
   
