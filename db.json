@@ -88,9 +88,20 @@
         "ip_camera_rtsp3": "",
         "ip_camera_rtsp4": "",
         
-        "img_top": 200,
-        "img_left": 200,
+        
+
+        "img_top": 170,
+        "img_left": 60,
         "img_width": 800,
+
+        "title_in_left_x": 700,
+        "title_in_right_x": 1060,
+
+        "tgl_masuk_y": 200,
+        "durasi_y": 330,
+        "biaya_y": 460,
+        "gate_y": 330,
+
         "title1_top": 200,
         "title1_left": 600,
         "title2_top": 400,
