@@ -88,23 +88,24 @@
         "ip_camera_rtsp3": "",
         "ip_camera_rtsp4": "",
         
-        
-
         "img_top": 170,
         "img_left": 60,
         "img_width": 800,
+        
+        "title1_top": 230,
+        "title1_left": 700,
+
+        "title2_top": 365,
+        "title2_left": 700,
+        
+        "title3_top": 1060,
+        "title3_left": 1060,
+
+        "title4_top": 490,
+        "title4_left": 700,
 
         "title_in_left_x": 700,
-        "title_in_right_x": 1060,
+        "title_in_right_x": 1060
 
-        "tgl_masuk_y": 230,
-        "durasi_y": 365,
-        "biaya_y": 490,
-        "gate_y": 365,
-
-        "title1_top": 200,
-        "title1_left": 600,
-        "title2_top": 400,
-        "title2_left": 810
   }
 }
