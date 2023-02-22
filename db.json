@@ -88,21 +88,26 @@
         "ip_camera_rtsp3": "",
         "ip_camera_rtsp4": "",
         
+        "font_family": "Arial Black",
         "img_top": 170,
         "img_left": 60,
         "img_width": 800,
         
         "title1_top": 230,
         "title1_left": 700,
-
+        "title1_fontsize": 28,
+        
         "title2_top": 365,
         "title2_left": 700,
+        "title2_fontsize": 28,
         
         "title3_top": 365,
         "title3_left": 1060,
-
+        "title3_fontsize": 28,
+        
         "title4_top": 490,
-        "title4_left": 700
+        "title4_left": 700,
+        "title4_fontsize": 28
 
   }
 }
