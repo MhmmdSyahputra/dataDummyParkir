@@ -79,6 +79,7 @@
         "com_portname": "COM1",
         "com_baudrate": "38400",
         "com_databit": "8",
+        "print_marginleft": 15,
         
         "id_gateout": "GO01",
         "id_usergate": "GATEOUT",
@@ -87,7 +88,11 @@
         "ip_camera_rtsp2": "",
         "ip_camera_rtsp3": "",
         "ip_camera_rtsp4": "",
-        
+
+        "title_header_top": 100,
+        "title_header_fontsize": 50,
+        "title_header_font_family": "Arial Black",
+
         "font_family": "Arial Black",
         "img_top": 170,
         "img_left": 60,
