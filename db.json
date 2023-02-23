@@ -93,6 +93,7 @@
         "title_header_top": 40,
         "title_header_fontsize": 30,
         "title_header_font_family": "Arial Black",
+        "title_header_font_color": "#FFF000",
 
         "font_family": "Arial Black",
         "img_top": 170,
