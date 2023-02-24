@@ -10,7 +10,8 @@
       "idtarif": "123",
       "namatarif":"GATE01",
       "valas":"Rp.",
-      "biayaparkir":"13000"
+      "biayaparkir":"13000",
+      "statusparkir":"1"
     },
     {
       "id": "0987654321",
@@ -22,7 +23,8 @@
       "idtarif": "321",
       "namatarif":"GATE01",
       "valas":"Rp.",
-      "biayaparkir":"5000"
+      "biayaparkir":"5000",
+      "statusparkir":"2"
     },
     {
       "id": "1357924680",
@@ -34,7 +36,8 @@
       "idtarif": "132",
       "namatarif":"GATE02",
       "valas":"Rp.",
-      "biayaparkir":"9000"
+      "biayaparkir":"9000",
+      "statusparkir":"3"
     },
     {
       "id": "QWERTYUIOP",
@@ -46,7 +49,8 @@
       "idtarif": "132",
       "namatarif":"GATE02",
       "valas":"Rp.",
-      "biayaparkir":"23500"
+      "biayaparkir":"23500",
+      "statusparkir":"3"
     },
     {
       "id": "POIUYTREWQ",
