@@ -62,7 +62,8 @@
       "idtarif": "132",
       "namatarif":"GATE02",
       "valas":"Rp.",
-      "biayaparkir":"123500"
+      "biayaparkir":"123500",
+      "statusparkir":"1"
     }
   ],
   
