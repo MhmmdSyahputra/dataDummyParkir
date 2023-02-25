@@ -122,6 +122,6 @@
         "title4_left": 700,
         "title4_fontsize": 28,
         
-        "print_allowauto": true
+        "print_allowauto": false
   } 
 }
