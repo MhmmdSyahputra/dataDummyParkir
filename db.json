@@ -50,7 +50,7 @@
       "namatarif":"GATE02",
       "valas":"Rp.",
       "biayaparkir":"23500",
-      "statusparkir":"3"
+      "statusparkir":"0"
     },
     {
       "id": "POIUYTREWQ",
@@ -63,7 +63,7 @@
       "namatarif":"GATE02",
       "valas":"Rp.",
       "biayaparkir":"123500",
-      "statusparkir":"1"
+      "statusparkir":"9"
     }
   ],
   
