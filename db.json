@@ -66,6 +66,17 @@
       "statusparkir":"9"
     }
   ],
+
+  "user":[
+    {
+      "userid": "123asd",
+      "passuser": "123asd"
+    },
+    {
+      "userid": "asd123",
+      "passuser": "asd123"
+    }
+  ],
   
   "config":{
         
